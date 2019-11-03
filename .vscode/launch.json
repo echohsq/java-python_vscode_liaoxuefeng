@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TreeSetPractice",
+            "request": "launch",
+            "mainClass": "TreeSetPractice"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EnumMap",
+            "request": "launch",
+            "mainClass": "EnumMap"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TemplateMain",
+            "request": "launch",
+            "mainClass": "TemplateMain"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Mainist",
+            "request": "launch",
+            "mainClass": "Mainist"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringMain",
+            "request": "launch",
+            "mainClass": "StringMain"
+        }
+    ]
+}
