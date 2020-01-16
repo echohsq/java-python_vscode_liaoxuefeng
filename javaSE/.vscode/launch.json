@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "Solution"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PriorityQueue",
+            "request": "launch",
+            "mainClass": "PriorityQueue"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EnumM",
+            "request": "launch",
+            "mainClass": "EnumM"
+        }
+    ]
+}

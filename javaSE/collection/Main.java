@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Iterator;
 import java.util.List;
 /**
@@ -17,7 +18,8 @@ public class Main {
      * list: LinkedList(链表)
      */
     public static void main(String[] args) {
-        // 创建list of()方法
+        // 创建list of()方法  
+        // java9以下使用Arrays.asList(a)
         List<Integer> list1 = List.of(1,2,3);
         // 始终使用迭代器来访问list
         for(Iterator<Integer> it = list1.iterator(); it.hasNext();){

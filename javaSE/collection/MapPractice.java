@@ -6,6 +6,7 @@ import java.util.Map;
  */
 public class MapPractice {
     public static void main(String[] args) {
+        // List.of 为java11新特性，java 8可以使用
         List<Student> list = List.of(
             new Student("Bob", 78),
             new Student("Alice", 85),
